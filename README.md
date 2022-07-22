@@ -6,3 +6,5 @@ Intro page is used to gave the user a breif information of myself with a picture
 About page is where i talk more of myself and my knowledge related to programming 
 Project page is created to give user know what i have done in the past
 Contact page is for people who want to cantact with me
+
+link to the website: https://lamhua23.github.io/sample-static-website-hla/
